@@ -1,4 +1,4 @@
 module CCryptoOpenSSL {
-    umbrella "/Users/mac/Desktop/Mine-Projects/rpsgame/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    umbrella "/Users/mac/Desktop/Mine-Projects/rock_paper/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
     export *
 }

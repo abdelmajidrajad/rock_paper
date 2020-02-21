@@ -64,7 +64,6 @@ p {
     font-size: large;
 }
 
-
 .features img {
     height: 100px;
     width: 180px;
@@ -91,6 +90,30 @@ p {
 .privacy h6 {
     color: black;
     font-weight: normal;
+}
+
+.instructions {
+    text-align: center;
+}
+
+.notifications {
+    list-style: inside;
+    text-align: left;
+    display: inline-block;
+    align-content: initial;
+    line-height: 2em;
+    font-size: medium;
+}
+
+.manual {
+    list-style: inside;
+    text-align: left;
+    display: inline-block;
+    align-content: initial;
+    margin-right: 2.5em;
+    line-height: 2em;
+    font-size: medium;
+    margin-bottom: 5em;
 }
 
 @media(min-width: 730px) {

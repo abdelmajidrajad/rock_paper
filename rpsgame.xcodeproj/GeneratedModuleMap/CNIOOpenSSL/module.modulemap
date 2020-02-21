@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/mac/Desktop/Mine-Projects/rpsgame/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
+    export *
+}

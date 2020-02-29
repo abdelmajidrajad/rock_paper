@@ -116,13 +116,14 @@ p {
     margin-bottom: 5em;
 }
 
-@media(min-width: 730px) {
+@media(min-width: 700px) {
     section {
         margin: 0 4em;
     }
 
-    .down img {
-        width: 40%;
+    .iphone {
+        margin-left: auto;
+        margin-right: auto;
     }
     
 }
